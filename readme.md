@@ -37,3 +37,20 @@ Then to sync up:
     repo sync
 
 For information on how to build, check [Here](https://github.com/AOSPA/manifest)
+
+
+Getting Started with PA Barracuda
+---------------------------------
+
+To get started with ParanoidAndroid, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the ParanoidAndroid Barracuda trees, use a command like this:
+
+    repo init -u https://github.com/barracuda-M40/android_manifest -b pa_barracuda
+
+Then to sync up:
+
+    repo sync
+
+For information on how to build, check [Here](https://github.com/AOSPA/manifest)
