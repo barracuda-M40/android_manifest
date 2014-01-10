@@ -16,7 +16,7 @@
 	   fetch="https://github.com/barracuda-M40" />
 	   
   <remote  name="TheGNOMEProject"
-  	   fetch="https://github.com/TheGNOMEProject"
+  	   fetch="https://github.com/TheGNOMEProject" />
 
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario" />
