@@ -37,9 +37,9 @@
            sync-f="true"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="aospal" revision="kitkat" >
+  <project path="manifest" name="AOSPA/manifest" remote="github" revision="kitkat" />
 
-  <project path="build" name="AOSPA/android_build" remote="github" revision="kitkat" >
+  <project path="build" name="android_build" remote="aospal" revision="kitkat" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
