@@ -303,6 +303,7 @@
   <project path="libcore" name="android_libcore" remote="aospal" revision="kitkat" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
+  <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="barracuda" revision="pa_barracuda"
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="aospal" revision="kitkat" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
